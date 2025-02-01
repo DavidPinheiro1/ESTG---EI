@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1675810063 source:/Users/thread/Downloads/ExameP1/automovel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"automovel.h"
+
+1675787020 /Users/thread/Downloads/ExameP1/automovel.h
+	"funcoesGenericas.h"
+
+1675803030 /Users/thread/Downloads/ExameP1/funcoesGenericas.h
+
+1675808120 source:/Users/thread/Downloads/ExameP1/funcoesGenericas.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+
+1675808397 source:/Users/thread/Downloads/ExameP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+	"automovel.h"
+
+1675811216 source:/Users/thread/Downloads/numeroNome_ExameRec23P1D/automovel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"automovel.h"
+
+1675787020 /Users/thread/Downloads/numeroNome_ExameRec23P1D/automovel.h
+	"funcoesGenericas.h"
+
+1675803030 /Users/thread/Downloads/numeroNome_ExameRec23P1D/funcoesGenericas.h
+
+1675808120 source:/Users/thread/Downloads/numeroNome_ExameRec23P1D/funcoesGenericas.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+
+1675810821 source:/Users/thread/Downloads/numeroNome_ExameRec23P1D/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+	"automovel.h"
+
+1675808122 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EIPL2024/numeroNome_ExameRec24P1D/funcoesGenericas.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+
+1704698332 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EIPL2024/numeroNome_ExameRec24P1D/funcoesGenericas.h
+
+1704699729 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EIPL2024/numeroNome_ExameRec24P1D/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+	"veiculo.h"
+
+1704699343 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EIPL2024/numeroNome_ExameRec24P1D/veiculo.h
+	"funcoesGenericas.h"
+
+1704699533 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EIPL2024/numeroNome_ExameRec24P1D/veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"veiculo.h"
+
+1704734504 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_ExameRec24P1D/funcoesGenericas.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+
+1704734504 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_ExameRec24P1D/funcoesGenericas.h
+
+1704699729 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_ExameRec24P1D/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+	"veiculo.h"
+
+1704699343 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_ExameRec24P1D/veiculo.h
+	"funcoesGenericas.h"
+
+1704735131 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_ExameRec24P1D/veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"veiculo.h"
+
+1704734504 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_Exame24P1D/funcoesGenericas.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+
+1704734504 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_Exame24P1D/funcoesGenericas.h
+
+1704699729 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_Exame24P1D/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesGenericas.h"
+	"veiculo.h"
+
+1704699343 /Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_Exame24P1D/veiculo.h
+	"funcoesGenericas.h"
+
+1704735131 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a2324/P1_EI2324/Testes/Exame_TestePratico2/EID2024/numeroNome_Exame24P1D/veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"veiculo.h"
+
