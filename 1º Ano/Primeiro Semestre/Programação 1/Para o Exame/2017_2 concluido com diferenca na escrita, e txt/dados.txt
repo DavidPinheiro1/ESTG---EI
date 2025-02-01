@@ -1,0 +1,12 @@
+Nome: David Pinheiro       Morada: Rio Maior
+Telefone: 915685585       Contribuinte: 111111111
+Código: 1
+Descricao: TV Nao Liga
+Data: 10/10/2020
+Grau de Satisfacao: 3
+Custo: 120.00
+-------------------------------
+Nome: Kiko       Morada: Rio Maior
+Telefone: 914894484       Contribuinte: 222222222
+Este Cliente Nao Tem Agendamentos
+-------------------------------

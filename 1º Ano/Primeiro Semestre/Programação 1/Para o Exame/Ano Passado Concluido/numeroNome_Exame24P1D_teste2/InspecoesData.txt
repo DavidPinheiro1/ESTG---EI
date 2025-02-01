@@ -1,0 +1,11 @@
+
+ Marca: VOLVO
+ Tipo de veiculo: 2
+ Codigo: 1
+ Matricula: 45-72-XQ
+ Total de kms: 450000
+ Data: 01/10/2025
+ Resultado da inspecao: APROVADO
+ Descricao: TOP XUXA
+ Custo: 150.00
+
